@@ -31,9 +31,7 @@ The page displays products with images, descriptions, and sections like Home, Ab
 💻 HOW TO RUN
 
 
-1.Clone the repository:
-
- https://github.com/maha-codehub/myshow.git
+1.Clone the repository 
 
 
 2.Open the folder in VS Code or any editor.
