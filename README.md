@@ -11,15 +11,6 @@ The page displays products with images, descriptions, and sections like Home, Ab
 
 👨‍💻CSS3 – For styling, layout, and hover effects
 
-📂 Project Structure
-bash
-Copy code
-myshow/
-│
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet for the webpage
-├── images/          # Product and design images
-└── README.md        # Project description
 🚀 Features
 ✅️Navigation Bar with Home, About, Products, and Contact links
 
@@ -31,6 +22,8 @@ myshow/
 
 ✅️Responsive Layout (basic) for better viewing experience
 
+
+💻 How to Run
 1.Clone the repository:
 
 bash
