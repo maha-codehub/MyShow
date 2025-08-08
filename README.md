@@ -3,15 +3,15 @@ A simple e-commerce-style web page inspired by Meesho, built using HTML and CSS 
 
 The page displays products with images, descriptions, and sections like Home, About, Products, and Contact.
 
-📸 Preview
+📸 PREVIEW 
 
-🛠 Tech Stack
+🛠 TECH STACK 
 
 👩‍💻HTML5 – For creating the structure of the webpage
 
 👨‍💻CSS3 – For styling, layout, and hover effects
 
-🚀 Features
+🚀 FEATURES 
 
 ✅️Navigation Bar with Home, About, Products, and Contact links
 
@@ -24,10 +24,10 @@ The page displays products with images, descriptions, and sections like Home, Ab
 ✅️Responsive Layout (basic) for better viewing experience
 
 
-💻 How to Run
-1.Clone the repository:
+💻 HOW TO RUN
 
-bash
+
+1.Clone the repository:
 Copy code
 git clone https://github.com/maha-codehub/myshow.git
 
