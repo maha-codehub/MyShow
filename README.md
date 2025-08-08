@@ -1,4 +1,4 @@
-# MyShowMyShow
+# MyShow
 A simple e-commerce-style web page inspired by Meesho, built using HTML and CSS only.
 
 The page displays products with images, descriptions, and sections like Home, About, Products, and Contact.
@@ -12,6 +12,7 @@ The page displays products with images, descriptions, and sections like Home, Ab
 👨‍💻CSS3 – For styling, layout, and hover effects
 
 🚀 Features
+
 ✅️Navigation Bar with Home, About, Products, and Contact links
 
 ✅️Search Bar for finding products
