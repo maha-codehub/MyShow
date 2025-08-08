@@ -5,6 +5,7 @@ The page displays products with images, descriptions, and sections like Home, Ab
 
 📸 PREVIEW 
 
+
 🛠 TECH STACK 
 
 👩‍💻HTML5 – For creating the structure of the webpage
@@ -28,6 +29,8 @@ The page displays products with images, descriptions, and sections like Home, Ab
 
 
 1.Clone the repository:
+
+
 Copy code
 git clone https://github.com/maha-codehub/myshow.git
 
